@@ -8,6 +8,10 @@ This project is a Selenium RPA that bring informations of <a href="https://www.a
 <li> DotNet6
 <li> MYSQL
 
+## You Should Know
+
+<strong>The main sln is into AeCBot folder!</strong>
+
 ## Code Organization
 
 ![image](https://user-images.githubusercontent.com/85527991/229471529-41ab5977-6bbf-401c-8c0f-0998edf85489.png)
