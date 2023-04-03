@@ -89,14 +89,14 @@ namespace AeCBot.Instructions
         }
         public async Task PostData(string url, AeCModel aecModel)
         {
-            AeCDAL = new AeCDAL(new HttpClient());
+            AeCDAL = new AeCDAO(new HttpClient());
             await AeCDAL.PostConsult(url, aecModel);
         }
         
 
         public async Task StartProgram(string entry)
         {
-            AeCDAL = new AeCDAL(new HttpClient());
+            AeCDAL = new AeCDAO(new HttpClient());
 
             string url = "https://localhost:7284/api/Automations";
             var data = await AeCDAL.GetConsult<List<AeCModel>>(url);

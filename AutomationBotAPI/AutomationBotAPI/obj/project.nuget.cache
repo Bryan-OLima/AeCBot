@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Bunolkd1G0VrCiCnETOp71aVNmvb4l+aNYNS2A1CGdw69h+KjUf1qi9MDGJjrcQLGj3EbgIcYw5jT25r7dh5HA==",
+  "dgSpecHash": "Nhb71uG4l64MfOChWGr7hrJ/FBz++VXn7evd1QS/JUqj3ySUAZCuRTyVMJNV8MAsG8OnEhYnqYfFo4gmqDELoA==",
   "success": true,
-  "projectFilePath": "D:\\AeCBot\\AutomationBotAPI\\AutomationBotAPI\\AutomationBotAPI.csproj",
+  "projectFilePath": "D:\\teste\\AutomationBotAPI\\AutomationBotAPI\\AutomationBotAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\seelz\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\seelz\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",

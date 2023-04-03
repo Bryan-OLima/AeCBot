@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\AeCBot\\AeCBot\\AeCBot\\AeCBot.csproj": {}
+    "D:\\teste\\AeCBot\\AeCBot\\AeCBot.csproj": {}
   },
   "projects": {
-    "D:\\AeCBot\\AeCBot\\AeCBot\\AeCBot.csproj": {
+    "D:\\teste\\AeCBot\\AeCBot\\AeCBot.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\AeCBot\\AeCBot\\AeCBot\\AeCBot.csproj",
+        "projectUniqueName": "D:\\teste\\AeCBot\\AeCBot\\AeCBot.csproj",
         "projectName": "AeCBot",
-        "projectPath": "D:\\AeCBot\\AeCBot\\AeCBot\\AeCBot.csproj",
+        "projectPath": "D:\\teste\\AeCBot\\AeCBot\\AeCBot.csproj",
         "packagesPath": "C:\\Users\\seelz\\.nuget\\packages\\",
-        "outputPath": "D:\\AeCBot\\AeCBot\\AeCBot\\obj\\",
+        "outputPath": "D:\\teste\\AeCBot\\AeCBot\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\seelz\\AppData\\Roaming\\NuGet\\NuGet.Config",

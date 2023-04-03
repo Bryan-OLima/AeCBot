@@ -10671,11 +10671,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\AeCBot\\AutomationBotAPI\\AutomationBotAPI\\AutomationBotAPI.csproj",
+      "projectUniqueName": "D:\\teste\\AutomationBotAPI\\AutomationBotAPI\\AutomationBotAPI.csproj",
       "projectName": "AutomationBotAPI",
-      "projectPath": "D:\\AeCBot\\AutomationBotAPI\\AutomationBotAPI\\AutomationBotAPI.csproj",
+      "projectPath": "D:\\teste\\AutomationBotAPI\\AutomationBotAPI\\AutomationBotAPI.csproj",
       "packagesPath": "C:\\Users\\seelz\\.nuget\\packages\\",
-      "outputPath": "D:\\AeCBot\\AutomationBotAPI\\AutomationBotAPI\\obj\\",
+      "outputPath": "D:\\teste\\AutomationBotAPI\\AutomationBotAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\seelz\\AppData\\Roaming\\NuGet\\NuGet.Config",

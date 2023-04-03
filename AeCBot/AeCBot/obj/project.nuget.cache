@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Cs1neg5wt8FIoJ7ZnzhLJ/qAI4g7sXzEXMv/lIT28jmImw5h+hLgnv05rOUcoM0wUTXYzX6BhJjbPfrIpkV7Ig==",
+  "dgSpecHash": "qm4uA1pUF6mpLOLEl4c7F61coLA6fhZtzmeFE/xLrTYIm3XCw5PstiOozT4SUEgEJZKWEcStF8xaSuQ9rsmU0w==",
   "success": true,
-  "projectFilePath": "D:\\AeCBot\\AeCBot\\AeCBot\\AeCBot.csproj",
+  "projectFilePath": "D:\\teste\\AeCBot\\AeCBot\\AeCBot.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\seelz\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.1\\microsoft.netcore.platforms.1.1.1.nupkg.sha512",
     "C:\\Users\\seelz\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
